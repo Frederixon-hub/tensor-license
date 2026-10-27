@@ -1,5 +1,5 @@
 {
-  "payload": "eyJ0eXBlIjoicmV2b2NhdGlvbiIsInYiOjEsInNlcSI6MSwiaXNzdWVkIjoiMjAyNi0xMC0yN1QyMDozMDozMC42MDdaIiwiaWRzIjpbXSwibWFjaGluZXMiOltdLCJpc3N1ZWRCZWZvcmUiOm51bGx9",
-  "sig": "SyVJFe-dPYHhNh6BRqqQQLaL2J4oe--Mk9uAGD6ax2l4iThx5vgwyOh-qsr-36Hhrevpo-eN8Q8KhguGro1_DA",
+  "payload": "eyJ0eXBlIjoicmV2b2NhdGlvbiIsInYiOjEsInNlcSI6MiwiaXNzdWVkIjoiMjAyNi0xMC0yN1QyMDozNTozOS4zMDBaIiwiaWRzIjpbXSwibWFjaGluZXMiOltdLCJpc3N1ZWRCZWZvcmUiOm51bGx9",
+  "sig": "qAKGwRVxG9GkklijhPIJjv59HKTyW6bRDiC-AOxtmy-4Nea9gRDjpxQt-P46ow2NFXaq3rQR3cj0a6hB46NpCg",
   "alg": "ed25519"
 }
