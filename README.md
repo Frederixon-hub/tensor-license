@@ -3,7 +3,7 @@
 `revocations.tlr` — список отозванных лицензий семейства программ Tensor. Программы скачивают его
 по адресу
 
-    https://raw.githubusercontent.com/<владелец>/tensor-license/main/revocations.tlr
+    https://raw.githubusercontent.com/Frederixon-hub/tensor-license/main/revocations.tlr
 
 вскоре после запуска и каждые 4 часа.
 
