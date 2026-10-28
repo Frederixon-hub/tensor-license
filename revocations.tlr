@@ -1,5 +1,5 @@
 {
-  "payload": "eyJ0eXBlIjoicmV2b2NhdGlvbiIsInYiOjEsInNlcSI6NSwiaXNzdWVkIjoiMjAyNi0xMC0yOFQxMjoxMjo1Ni43NjdaIiwiaWRzIjpbIjVmYWNlZjRhLWVjZTQtNDQ1Ni04MmJmLTFjNjA4MGE2MTExNyJdLCJtYWNoaW5lcyI6W10sImlzc3VlZEJlZm9yZSI6bnVsbH0",
-  "sig": "15RvC4i6sAmU_5ZxKGvz9s59ZdQ1r6s8xJXzq2M-12HRgKlzmmE5I_XcoSR8n6Z5-v56JJCtY8_Dqn9pXeSMAA",
+  "payload": "eyJ0eXBlIjoicmV2b2NhdGlvbiIsInYiOjEsInNlcSI6NiwiaXNzdWVkIjoiMjAyNi0xMC0yOFQxMjoxMzowNS42NjBaIiwiaWRzIjpbXSwibWFjaGluZXMiOltdLCJpc3N1ZWRCZWZvcmUiOm51bGx9",
+  "sig": "BOxjASrc1lM36LOIhO1Sb_KbsSo4Ig4pyNo_3XrLrnhAyPM-CtvRiIyO9rTfKqtdLSYBayD2YmIR4hBQo3cSDA",
   "alg": "ed25519"
 }
